@@ -4,7 +4,7 @@ from attention import AttentionLayer
 
 
 def build_model(pass_max_len, x_vocab_size, y_vocab_size, encoder_layers=3, decoder_layers=1,
-                encoder_dim=500, decoder_dim=500, layer_type='LSTM'):
+                encoder_dim=100, decoder_dim=100, layer_type='LSTM'):
     if layer_type == 'LSTM':
         # Encoder
         enc_inputs = L.Input(shape=(pass_max_len,))
