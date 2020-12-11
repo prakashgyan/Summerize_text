@@ -1,3 +1,7 @@
+
+"""A Dictionary os common English Contractions"""
+
+
 contraction_mapping = {"ain't": "is not",
                        "aren't": "are not",
                        "can't": "cannot",
