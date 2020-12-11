@@ -15,4 +15,4 @@ B. **Abstractive**
 2. Run abstractive.py
 
 Libraries required are :
-_[re, nltk, os, pandas, tensorflow, sklearn, plotly]_
+_[re, nltk, os, pandas, tensorflow, sklearn, plotly]_ 
