@@ -1,2 +1,3 @@
 *.story linguist-detectable=false
 *.py linguist-detectable=true
+*.feature linguist-detectable=false
